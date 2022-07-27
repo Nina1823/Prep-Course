@@ -149,6 +149,7 @@ function sumarLikesDeUsuario (usuario) {
      suma = suma + usuario.posts[i].likes;
    }
   return suma;
+ /*  todo good */
   
  
 }
